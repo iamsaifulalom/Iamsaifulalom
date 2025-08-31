@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Saiful Alom</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN & Next.js Enthusiast
 💡 Passionate about building scalable web apps with clean code</h3>
@@ -97,5 +96,3 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaifulalom&theme=" alt="iamsaifulalom" /></p>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

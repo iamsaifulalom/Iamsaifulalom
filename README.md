@@ -94,5 +94,9 @@
 <h3 align="left">Stars</h3>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaifulalom&theme=" alt="iamsaifulalom" /></p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaifulalom&layout=compact&theme=" alt=iamsaifulalom />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsaifulalom&show_icons=true&locale=en&theme=" alt="iamsaifulalom" /></p>
 
 </div>

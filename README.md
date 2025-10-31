@@ -90,9 +90,8 @@
   <img class="skill-icon" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaifulalom&layout=compact&theme=" alt=iamsaifulalom />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsaifulalom&show_icons=true&locale=en&theme=" alt="iamsaifulalom" /></p>
-
 </div>
+
+### GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaifulalom&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaifulalom&show_icons=true&locale=en&theme=default)

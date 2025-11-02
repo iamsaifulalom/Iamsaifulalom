@@ -7,10 +7,9 @@
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **React js, Nextjs, Express,Nodejs, Mongodb,Web security**
 - 📫 How to reach me **hello@saifulalom.com**
-- 🌐 Portfolio: [saifulalom.com](https://www.saifulalom.com)
-- 👨‍💻 All of my projects are available at  [Projects](https://www.saifulalom.com/prjects)
-- 📝 I regularly write articles on [Blogs](https://www.saifulalom.com/blogs)
-- ⚡ Fun fact **Animal lover and dog dad to a golden retriever named Max.**
+- 🌐 Portfolio: [saifulalom.com](https://saifulalom.com)
+- 👨‍💻 All of my projects are available at  [Projects](https://saifulalom.com/#prjects)
+- 📝 I regularly write articles on [Blogs](https://saifulalom.com/#articles)
 
 <div> <a href="https://twitter.com/iamsaifulalom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/iamsaifulalom" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

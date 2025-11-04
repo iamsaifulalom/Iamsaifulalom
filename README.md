@@ -3,7 +3,7 @@
 💡 Passionate about building scalable web apps with clean code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaifulalom&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaifulalom" /> </p>
 
-- 🔭 I’m currently working on [bazarbhai.com](www.bazarbhai.com)
+- 🔭 I’m currently working on [bazarbhai.com](https://bazarbhai.com)
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about **React js, Nextjs, Express,Nodejs, Mongodb,Web security**
 - 📫 How to reach me **hello@saifulalom.com**
